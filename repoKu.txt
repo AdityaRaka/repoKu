@@ -1,0 +1,4 @@
+repo Resolusi
+- konsisten belajar bahasa program js
+- konsisten belajar git & github
+- konsisten buat portofolio
