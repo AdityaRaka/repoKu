@@ -1,5 +1,5 @@
 repo Resolusi
 - konsisten belajar bahasa program js
 - konsisten belajar git & github
-- konsisten buat portofolio
 - bercita-cita membuat website canggih dengan design yang friendly
+- membuat banyak portofolio!
