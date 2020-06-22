@@ -1,4 +1,4 @@
 RENCANA UNTUK BEKERJA
-- Web Development = Javascript,Vue JS,PHP,Laravel,Menggunakan GIT
+- Web Development = Javascript,Vue JS,PHP,Laravel,Menggunakan GIT,pyhton sebagai back-end
 - Web Design = HTML5,CSS3,Javascript/VueJS/ReactJS,belajar UI UX Design
 - Mobile Development with Flutter,Belajar UI UX Design
