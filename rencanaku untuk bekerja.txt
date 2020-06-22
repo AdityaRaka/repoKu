@@ -1,0 +1,4 @@
+RENCANA UNTUK BEKERJA
+- Web Development = Javascript,Vue JS,PHP,Laravel
+- Web Design = HTML5,CSS3,Javascript/VueJS/ReactJS
+- Mobile Development with Flutter
